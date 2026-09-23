@@ -1,0 +1,78 @@
+{
+  "Bjelkes Allé 18, st. th, 2200 København N": {
+    "address": "Bjelkes Allé 18, st. th, 2200 København N",
+    "status": "Reserveret"
+  },
+  "Mølle Allé 21, 4. tv, 2500 Valby": {
+    "address": "Mølle Allé 21, 4. tv, 2500 Valby",
+    "status": "Reserveret"
+  },
+  "https://kereby.dk/bolig/jagtvej-113-2-2200-kobenhavn-n/": {
+    "address": "Jagtvej 113, 2., 2200 København N",
+    "status": "Ledig"
+  },
+  "Godthåbsvej 8A, 2., 2000 Frederiksberg": {
+    "address": "Godthåbsvej 8A, 2., 2000 Frederiksberg",
+    "status": "Reserveret"
+  },
+  "Amagerbrogade 109, 1. tv, 2300 København S": {
+    "address": "Amagerbrogade 109, 1. tv, 2300 København S",
+    "status": "Reserveret"
+  },
+  "https://kereby.dk/bolig/norrebrogade-156-st-tv-2200-kobenhavn-n/": {
+    "address": "Nørrebrogade 156, st. tv, 2200 København N",
+    "status": "Ledig"
+  },
+  "Fælledvej 23, 3. tv, 2200 København N": {
+    "address": "Fælledvej 23, 3. tv, 2200 København N",
+    "status": "Reserveret"
+  },
+  "Kronprinsensgade 10, 4., 1114 København K": {
+    "address": "Kronprinsensgade 10, 4., 1114 København K",
+    "status": "Reserveret"
+  },
+  "Amagerbrogade 111, 1. tv, 2300 København S": {
+    "address": "Amagerbrogade 111, 1. tv, 2300 København S",
+    "status": "Reserveret"
+  },
+  "Vesterbrogade 13, 3. tv, 1620 København V": {
+    "address": "Vesterbrogade 13, 3. tv, 1620 København V",
+    "status": "Udlejet"
+  },
+  "Sundbyvester Plads 1, 3. tv, 2300 København S": {
+    "address": "Sundbyvester Plads 1, 3. tv, 2300 København S",
+    "status": "Udlejet"
+  },
+  "Valby Langgade 122, 3. th, 2500 Valby": {
+    "address": "Valby Langgade 122, 3. th, 2500 Valby",
+    "status": "Udlejet"
+  },
+  "Dannebrogsgade 15, st. th, 1660 København V": {
+    "address": "Dannebrogsgade 15, st. th, 1660 København V",
+    "status": "Udlejet"
+  },
+  "Store Kongensgade 11, 3. th, 1264 København K": {
+    "address": "Store Kongensgade 11, 3. th, 1264 København K",
+    "status": "Udlejet"
+  },
+  "Amagerbrogade 120, 5., 2300 København S": {
+    "address": "Amagerbrogade 120, 5., 2300 København S",
+    "status": "Udlejet"
+  },
+  "Christian IX's Gade 5, 2. tv, 1111 København K": {
+    "address": "Christian IX's Gade 5, 2. tv, 1111 København K",
+    "status": "Udlejet"
+  },
+  "Stormgade 35, 4. th, 1555 København V": {
+    "address": "Stormgade 35, 4. th, 1555 København V",
+    "status": "Udlejet"
+  },
+  "https://kereby.dk/bolig/strandboulevarden-61-5-th-2100-kobenhavn/": {
+    "address": "Strandboulevarden 61, 5. th, 2100 København Ø",
+    "status": "Ledig"
+  },
+  "https://kereby.dk/bolig/sortedam-dossering-45-5-tv-2200-kobenhavn-n/": {
+    "address": "Sortedam Dossering 45, 5. tv, 2200 København N",
+    "status": "Ledig"
+  }
+}
