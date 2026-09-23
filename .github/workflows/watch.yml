@@ -24,6 +24,7 @@ jobs:
       - run: python kereby_watch.py
         env:
           DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
+          SLACK_WEBHOOK_URL: ${{ secrets.SLACK_WEBHOOK_URL }}
       - name: Save seen listings
         run: |
           git config user.name "kereby-bot"

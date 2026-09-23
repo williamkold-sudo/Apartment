@@ -14,7 +14,8 @@ from bs4 import BeautifulSoup
 
 URL = "https://kereby.dk/bolig/"
 STATE_FILE = Path(__file__).with_name("seen.json")
-WEBHOOK = os.environ.get("DISCORD_WEBHOOK_URL", "")
+DISCORD_WEBHOOK = os.environ.get("DISCORD_WEBHOOK_URL", "")
+SLACK_WEBHOOK = os.environ.get("SLACK_WEBHOOK_URL", "")
 HEADERS = {"User-Agent": "Mozilla/5.0 (personal apartment alert; checks every 15 min)"}
 LISTING_LINK = re.compile(r"^(?:https?://(?:www\.)?kereby\.dk)?/bolig/([^/?#]+)/?$")
 
@@ -99,13 +100,45 @@ def post_to_discord(item, reason):
     }
     if item["image"]:
         embed["image"] = {"url": item["image"]}
-    r = requests.post(WEBHOOK, json={"content": reason, "embeds": [embed]}, timeout=20)
+    r = requests.post(DISCORD_WEBHOOK, json={"content": f"**{reason}**", "embeds": [embed]}, timeout=20)
     r.raise_for_status()
 
 
+def post_to_slack(item, reason):
+    text = (
+        f"*{reason}*\n*<{item['link']}|🏠 {item['address']}>*\n{item['title']}\n"
+        f"*Husleje:* {item['price']} kr./md.   *Værelser:* {item['rooms']}   "
+        f"*Størrelse:* {item['size']} m²   *Status:* {item['status']}"
+    )
+    fallback = f"{reason} {item['address']} - {item['price']} kr./md."
+    section = {"type": "section", "text": {"type": "mrkdwn", "text": text}}
+    if item["image"]:
+        with_image = dict(section, accessory={"type": "image", "image_url": item["image"], "alt_text": item["address"]})
+        r = requests.post(SLACK_WEBHOOK, json={"text": fallback, "blocks": [with_image]}, timeout=20)
+        if r.ok:
+            return
+    # Slack can reject some image formats; send without the photo instead.
+    r = requests.post(SLACK_WEBHOOK, json={"text": fallback, "blocks": [section]}, timeout=20)
+    r.raise_for_status()
+
+
+def send_text(message):
+    if DISCORD_WEBHOOK:
+        requests.post(DISCORD_WEBHOOK, json={"content": message}, timeout=20)
+    if SLACK_WEBHOOK:
+        requests.post(SLACK_WEBHOOK, json={"text": message}, timeout=20)
+
+
+def notify(item, reason):
+    if DISCORD_WEBHOOK:
+        post_to_discord(item, reason)
+    if SLACK_WEBHOOK:
+        post_to_slack(item, reason)
+
+
 def main():
-    if not WEBHOOK:
-        sys.exit("Set the DISCORD_WEBHOOK_URL environment variable.")
+    if not DISCORD_WEBHOOK and not SLACK_WEBHOOK:
+        sys.exit("Set DISCORD_WEBHOOK_URL and/or SLACK_WEBHOOK_URL.")
 
     resp = requests.get(URL, headers=HEADERS, timeout=30)
     resp.raise_for_status()
@@ -118,15 +151,15 @@ def main():
 
     if first_run:
         print(f"First run: saving {len(current)} existing listings without posting.")
-        requests.post(WEBHOOK, json={"content": f"✅ Kereby-watcher er sat op. Følger {len(current)} boliger og giver besked om nye."}, timeout=20)
+        send_text(f"✅ Kereby-watcher er sat op. Følger {len(current)} boliger og giver besked om nye.")
     else:
         for key, item in current.items():
             if key not in seen:
                 print("NEW:", item["address"])
-                post_to_discord(item, "**Ny bolig på Kereby!**")
+                notify(item, "Ny bolig på Kereby!")
             elif seen[key].get("status") != "Ledig" and item["status"] == "Ledig":
                 print("AVAILABLE AGAIN:", item["address"])
-                post_to_discord(item, "**Bolig er ledig igen!**")
+                notify(item, "Bolig er ledig igen!")
 
     # Remember everything ever seen, updated with the latest status.
     seen.update({k: {"address": v["address"], "status": v["status"]} for k, v in current.items()})
