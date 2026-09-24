@@ -74,5 +74,9 @@
   "https://kereby.dk/bolig/sortedam-dossering-45-5-tv-2200-kobenhavn-n/": {
     "address": "Sortedam Dossering 45, 5. tv, 2200 København N",
     "status": "Ledig"
+  },
+  "Strandboulevarden 61, 5. th, 2100 København Ø": {
+    "address": "Strandboulevarden 61, 5. th, 2100 København Ø",
+    "status": "Reserveret"
   }
 }
