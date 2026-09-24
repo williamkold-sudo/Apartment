@@ -78,5 +78,9 @@
   "Strandboulevarden 61, 5. th, 2100 København Ø": {
     "address": "Strandboulevarden 61, 5. th, 2100 København Ø",
     "status": "Reserveret"
+  },
+  "Brohusgade 20, 3. tv, 2200 København N": {
+    "address": "Brohusgade 20, 3. tv, 2200 København N",
+    "status": "Reserveret"
   }
 }
