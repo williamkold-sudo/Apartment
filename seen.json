@@ -86,5 +86,9 @@
   "Nørrebrogade 156, st. tv, 2200 København N": {
     "address": "Nørrebrogade 156, st. tv, 2200 København N",
     "status": "Reserveret"
+  },
+  "Fredensgade 3B, 3. th, 2200 København N": {
+    "address": "Fredensgade 3B, 3. th, 2200 København N",
+    "status": "Reserveret"
   }
 }
