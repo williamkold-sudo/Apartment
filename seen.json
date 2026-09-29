@@ -90,5 +90,9 @@
   "Fredensgade 3B, 3. th, 2200 København N": {
     "address": "Fredensgade 3B, 3. th, 2200 København N",
     "status": "Reserveret"
+  },
+  "Jagtvej 113, 2., 2200 København N": {
+    "address": "Jagtvej 113, 2., 2200 København N",
+    "status": "Reserveret"
   }
 }
