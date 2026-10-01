@@ -94,5 +94,13 @@
   "Jagtvej 113, 2., 2200 København N": {
     "address": "Jagtvej 113, 2., 2200 København N",
     "status": "Reserveret"
+  },
+  "Heimdalsgade 8, 2. th, 2200 København N": {
+    "address": "Heimdalsgade 8, 2. th, 2200 København N",
+    "status": "Reserveret"
+  },
+  "https://kereby.dk/bolig/jagtvej-183-1-tv-2100-kobenhavn/": {
+    "address": "Jagtvej 183, 1. tv, 2100 København Ø",
+    "status": "Ledig"
   }
 }
