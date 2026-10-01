@@ -13,7 +13,7 @@
   },
   "Godthåbsvej 8A, 2., 2000 Frederiksberg": {
     "address": "Godthåbsvej 8A, 2., 2000 Frederiksberg",
-    "status": "Reserveret"
+    "status": "Udlejet"
   },
   "Amagerbrogade 109, 1. tv, 2300 København S": {
     "address": "Amagerbrogade 109, 1. tv, 2300 København S",
@@ -81,7 +81,7 @@
   },
   "Brohusgade 20, 3. tv, 2200 København N": {
     "address": "Brohusgade 20, 3. tv, 2200 København N",
-    "status": "Reserveret"
+    "status": "Udlejet"
   },
   "Nørrebrogade 156, st. tv, 2200 København N": {
     "address": "Nørrebrogade 156, st. tv, 2200 København N",
