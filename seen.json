@@ -102,5 +102,9 @@
   "https://kereby.dk/bolig/jagtvej-183-1-tv-2100-kobenhavn/": {
     "address": "Jagtvej 183, 1. tv, 2100 København Ø",
     "status": "Ledig"
+  },
+  "Jagtvej 183, 1. tv, 2100 København Ø": {
+    "address": "Jagtvej 183, 1. tv, 2100 København Ø",
+    "status": "Reserveret"
   }
 }
