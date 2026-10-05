@@ -106,5 +106,9 @@
   "Jagtvej 183, 1. tv, 2100 København Ø": {
     "address": "Jagtvej 183, 1. tv, 2100 København Ø",
     "status": "Reserveret"
+  },
+  "https://kereby.dk/bolig/gersonsvej-55-st-th-2900-hellerup/": {
+    "address": "Gersonsvej 55, st. th, 2900 Hellerup",
+    "status": "Ledig"
   }
 }
