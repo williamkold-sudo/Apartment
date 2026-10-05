@@ -110,5 +110,9 @@
   "https://kereby.dk/bolig/gersonsvej-55-st-th-2900-hellerup/": {
     "address": "Gersonsvej 55, st. th, 2900 Hellerup",
     "status": "Ledig"
+  },
+  "https://kereby.dk/bolig/helgolandsgade-2-5-th-1653-kobenhavn-v/": {
+    "address": "Helgolandsgade 2, 5. th, 1653 København V",
+    "status": "Ledig"
   }
 }
