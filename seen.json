@@ -118,5 +118,9 @@
   "Helgolandsgade 2, 5. th, 1653 København V": {
     "address": "Helgolandsgade 2, 5. th, 1653 København V",
     "status": "Reserveret"
+  },
+  "Gersonsvej 55, st. th, 2900 Hellerup": {
+    "address": "Gersonsvej 55, st. th, 2900 Hellerup",
+    "status": "Reserveret"
   }
 }
