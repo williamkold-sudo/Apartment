@@ -126,5 +126,9 @@
   "Gothersgade 10C, 2. th, 1123 København K": {
     "address": "Gothersgade 10C, 2. th, 1123 København K",
     "status": "Reserveret"
+  },
+  "Rantzausgade 32, 5. tv, 2200 København N": {
+    "address": "Rantzausgade 32, 5. tv, 2200 København N",
+    "status": "Reserveret"
   }
 }
