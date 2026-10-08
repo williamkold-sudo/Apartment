@@ -134,5 +134,9 @@
   "https://kereby.dk/bolig/norrebrogade-176-2-tv-2200-kobenhavn-n/": {
     "address": "Nørrebrogade 176, 2. tv, 2200 København N",
     "status": "Ledig"
+  },
+  "Nørrebrogade 176, 2. tv, 2200 København N": {
+    "address": "Nørrebrogade 176, 2. tv, 2200 København N",
+    "status": "Reserveret"
   }
 }
