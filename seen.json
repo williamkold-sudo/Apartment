@@ -142,5 +142,9 @@
   "https://kereby.dk/bolig/hc-rsteds-vej-12-2-tv-1879-frederiksberg-c/": {
     "address": "H.C. Ørsteds Vej 12, 2. tv, 1879 Frederiksberg C",
     "status": "Ledig"
+  },
+  "H.C. Ørsteds Vej 12, 2. tv, 1879 Frederiksberg C": {
+    "address": "H.C. Ørsteds Vej 12, 2. tv, 1879 Frederiksberg C",
+    "status": "Reserveret"
   }
 }
