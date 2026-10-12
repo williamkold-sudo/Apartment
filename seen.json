@@ -138,5 +138,9 @@
   "Nørrebrogade 176, 2. tv, 2200 København N": {
     "address": "Nørrebrogade 176, 2. tv, 2200 København N",
     "status": "Reserveret"
+  },
+  "https://kereby.dk/bolig/hc-rsteds-vej-12-2-tv-1879-frederiksberg-c/": {
+    "address": "H.C. Ørsteds Vej 12, 2. tv, 1879 Frederiksberg C",
+    "status": "Ledig"
   }
 }
