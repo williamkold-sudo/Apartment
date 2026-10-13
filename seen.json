@@ -150,5 +150,9 @@
   "Allersgade 1, 2. tv, 2200 København N": {
     "address": "Allersgade 1, 2. tv, 2200 København N",
     "status": "Reserveret"
+  },
+  "https://kereby.dk/bolig/sundbyvester-plads-9-1-tv-2300-kobenhavn-s/": {
+    "address": "Sundbyvester Plads 9, 1. tv, 2300 København S",
+    "status": "Ledig"
   }
 }
