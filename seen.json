@@ -146,5 +146,9 @@
   "H.C. Ørsteds Vej 12, 2. tv, 1879 Frederiksberg C": {
     "address": "H.C. Ørsteds Vej 12, 2. tv, 1879 Frederiksberg C",
     "status": "Reserveret"
+  },
+  "Allersgade 1, 2. tv, 2200 København N": {
+    "address": "Allersgade 1, 2. tv, 2200 København N",
+    "status": "Reserveret"
   }
 }
