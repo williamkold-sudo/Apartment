@@ -154,5 +154,9 @@
   "https://kereby.dk/bolig/sundbyvester-plads-9-1-tv-2300-kobenhavn-s/": {
     "address": "Sundbyvester Plads 9, 1. tv, 2300 København S",
     "status": "Ledig"
+  },
+  "Sundbyvester Plads 9, 1. tv, 2300 København S": {
+    "address": "Sundbyvester Plads 9, 1. tv, 2300 København S",
+    "status": "Reserveret"
   }
 }
