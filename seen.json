@@ -158,5 +158,9 @@
   "Sundbyvester Plads 9, 1. tv, 2300 København S": {
     "address": "Sundbyvester Plads 9, 1. tv, 2300 København S",
     "status": "Reserveret"
+  },
+  "https://kereby.dk/bolig/lyongade-14-5-tv-2300-kobenhavn-s/": {
+    "address": "Lyongade 14, 5. tv, 2300 København S",
+    "status": "Ledig"
   }
 }
