@@ -174,5 +174,9 @@
   "Bøhmensgade 9, 3. th, 2300 København S": {
     "address": "Bøhmensgade 9, 3. th, 2300 København S",
     "status": "Reserveret"
+  },
+  "https://kereby.dk/bolig/aboulevard-48-5-th-2200-kobenhavn-n/": {
+    "address": "Åboulevard 48, 5. th, 2200 København N",
+    "status": "Ledig"
   }
 }
