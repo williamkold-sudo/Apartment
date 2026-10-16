@@ -137,7 +137,7 @@
   },
   "Nørrebrogade 176, 2. tv, 2200 København N": {
     "address": "Nørrebrogade 176, 2. tv, 2200 København N",
-    "status": "Reserveret"
+    "status": "Udlejet"
   },
   "https://kereby.dk/bolig/hc-rsteds-vej-12-2-tv-1879-frederiksberg-c/": {
     "address": "H.C. Ørsteds Vej 12, 2. tv, 1879 Frederiksberg C",
@@ -165,6 +165,10 @@
   },
   "Tyrolsgade 9, 1. tv, 2300 København S": {
     "address": "Tyrolsgade 9, 1. tv, 2300 København S",
+    "status": "Reserveret"
+  },
+  "Lyongade 14, 5. tv, 2300 København S": {
+    "address": "Lyongade 14, 5. tv, 2300 København S",
     "status": "Reserveret"
   }
 }
