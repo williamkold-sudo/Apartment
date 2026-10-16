@@ -178,5 +178,9 @@
   "https://kereby.dk/bolig/aboulevard-48-5-th-2200-kobenhavn-n/": {
     "address": "Åboulevard 48, 5. th, 2200 København N",
     "status": "Ledig"
+  },
+  "Åboulevard 48, 5. th, 2200 København N": {
+    "address": "Åboulevard 48, 5. th, 2200 København N",
+    "status": "Reserveret"
   }
 }
