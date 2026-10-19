@@ -186,5 +186,9 @@
   "https://kereby.dk/bolig/norrebrogade-174-1-th-2200-kobenhavn-n/": {
     "address": "Nørrebrogade 174, 1. th, 2200 København N",
     "status": "Ledig"
+  },
+  "https://kereby.dk/bolig/sondre-fasanvej-99-5-tv-2500-valby/": {
+    "address": "Søndre Fasanvej 99, 5. tv, 2500 Valby",
+    "status": "Ledig"
   }
 }
