@@ -190,5 +190,9 @@
   "https://kereby.dk/bolig/sondre-fasanvej-99-5-tv-2500-valby/": {
     "address": "Søndre Fasanvej 99, 5. tv, 2500 Valby",
     "status": "Ledig"
+  },
+  "Søndre Fasanvej 99, 5. tv, 2500 Valby": {
+    "address": "Søndre Fasanvej 99, 5. tv, 2500 Valby",
+    "status": "Reserveret"
   }
 }
