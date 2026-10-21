@@ -194,5 +194,9 @@
   "Søndre Fasanvej 99, 5. tv, 2500 Valby": {
     "address": "Søndre Fasanvej 99, 5. tv, 2500 Valby",
     "status": "Reserveret"
+  },
+  "Vølundsgade 4, 3. tv, 2200 København N": {
+    "address": "Vølundsgade 4, 3. tv, 2200 København N",
+    "status": "Reserveret"
   }
 }
