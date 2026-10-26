@@ -117,7 +117,7 @@
   },
   "Helgolandsgade 2, 5. th, 1653 København V": {
     "address": "Helgolandsgade 2, 5. th, 1653 København V",
-    "status": "Reserveret"
+    "status": "Udlejet"
   },
   "Gersonsvej 55, st. th, 2900 Hellerup": {
     "address": "Gersonsvej 55, st. th, 2900 Hellerup",
@@ -157,7 +157,7 @@
   },
   "Sundbyvester Plads 9, 1. tv, 2300 København S": {
     "address": "Sundbyvester Plads 9, 1. tv, 2300 København S",
-    "status": "Reserveret"
+    "status": "Udlejet"
   },
   "https://kereby.dk/bolig/lyongade-14-5-tv-2300-kobenhavn-s/": {
     "address": "Lyongade 14, 5. tv, 2300 København S",
@@ -169,7 +169,7 @@
   },
   "Lyongade 14, 5. tv, 2300 København S": {
     "address": "Lyongade 14, 5. tv, 2300 København S",
-    "status": "Reserveret"
+    "status": "Udlejet"
   },
   "Bøhmensgade 9, 3. th, 2300 København S": {
     "address": "Bøhmensgade 9, 3. th, 2300 København S",
@@ -197,6 +197,10 @@
   },
   "Vølundsgade 4, 3. tv, 2200 København N": {
     "address": "Vølundsgade 4, 3. tv, 2200 København N",
+    "status": "Reserveret"
+  },
+  "Heimdalsgade 12A, 5., 2200 København N": {
+    "address": "Heimdalsgade 12A, 5., 2200 København N",
     "status": "Reserveret"
   }
 }
