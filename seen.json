@@ -206,5 +206,13 @@
   "Gammel Kongevej 136, 4. 3, 1850 Frederiksberg C": {
     "address": "Gammel Kongevej 136, 4. 3, 1850 Frederiksberg C",
     "status": "Reserveret"
+  },
+  "Falkoner Alle 12A, 3. th, 2000 Frederiksberg": {
+    "address": "Falkoner Alle 12A, 3. th, 2000 Frederiksberg",
+    "status": "Reserveret"
+  },
+  "Åboulevard 48, 1. th, 2200 København N": {
+    "address": "Åboulevard 48, 1. th, 2200 København N",
+    "status": "Reserveret"
   }
 }
