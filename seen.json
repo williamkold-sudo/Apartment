@@ -218,5 +218,13 @@
   "https://kereby.dk/bolig/norrebrogade-174-5-tv-2200-kobenhavn-n/": {
     "address": "Nørrebrogade 174, 5. tv, 2200 København N",
     "status": "Ledig"
+  },
+  "Rodosvej 1, 3. tv, 2300 København S": {
+    "address": "Rodosvej 1, 3. tv, 2300 København S",
+    "status": "Reserveret"
+  },
+  "https://kereby.dk/bolig/drogdensgade-4-5-2300-kobenhavn-s/": {
+    "address": "Drogdensgade 4, 5., 2300 København S",
+    "status": "Ledig"
   }
 }
