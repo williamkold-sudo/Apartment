@@ -165,7 +165,7 @@
   },
   "Tyrolsgade 9, 1. tv, 2300 København S": {
     "address": "Tyrolsgade 9, 1. tv, 2300 København S",
-    "status": "Reserveret"
+    "status": "Udlejet"
   },
   "Lyongade 14, 5. tv, 2300 København S": {
     "address": "Lyongade 14, 5. tv, 2300 København S",
@@ -225,6 +225,10 @@
   },
   "https://kereby.dk/bolig/drogdensgade-4-5-2300-kobenhavn-s/": {
     "address": "Drogdensgade 4, 5., 2300 København S",
+    "status": "Ledig"
+  },
+  "https://kereby.dk/bolig/aboulevard-48-1-th-2200-kobenhavn-n/": {
+    "address": "Åboulevard 48, 1. th, 2200 København N",
     "status": "Ledig"
   }
 }
