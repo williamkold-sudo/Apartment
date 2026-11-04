@@ -238,5 +238,9 @@
   "Nørrebrogade 174, 5. tv, 2200 København N": {
     "address": "Nørrebrogade 174, 5. tv, 2200 København N",
     "status": "Reserveret"
+  },
+  "Lillegrund 10A, st. th, 2300 København S": {
+    "address": "Lillegrund 10A, st. th, 2300 København S",
+    "status": "Reserveret"
   }
 }
