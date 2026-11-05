@@ -242,5 +242,9 @@
   "Lillegrund 10A, st. th, 2300 København S": {
     "address": "Lillegrund 10A, st. th, 2300 København S",
     "status": "Reserveret"
+  },
+  "Norgesgade 7, 2. th, 2300 København S": {
+    "address": "Norgesgade 7, 2. th, 2300 København S",
+    "status": "Reserveret"
   }
 }
