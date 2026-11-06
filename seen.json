@@ -250,5 +250,13 @@
   "Lyongade 12, 3. th, 2300 København S": {
     "address": "Lyongade 12, 3. th, 2300 København S",
     "status": "Reserveret"
+  },
+  "Nørrebrogade 41, 3. th, 2200 København N": {
+    "address": "Nørrebrogade 41, 3. th, 2200 København N",
+    "status": "Reserveret"
+  },
+  "Kronprinsensgade 10, 3., 1114 København K": {
+    "address": "Kronprinsensgade 10, 3., 1114 København K",
+    "status": "Reserveret"
   }
 }
