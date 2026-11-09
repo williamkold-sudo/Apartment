@@ -258,5 +258,9 @@
   "Kronprinsensgade 10, 3., 1114 København K": {
     "address": "Kronprinsensgade 10, 3., 1114 København K",
     "status": "Reserveret"
+  },
+  "Sommerstedgade 12, 1. th, 1718 København V": {
+    "address": "Sommerstedgade 12, 1. th, 1718 København V",
+    "status": "Reserveret"
   }
 }
