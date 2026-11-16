@@ -241,7 +241,7 @@
   },
   "Lillegrund 10A, st. th, 2300 København S": {
     "address": "Lillegrund 10A, st. th, 2300 København S",
-    "status": "Reserveret"
+    "status": "Udlejet"
   },
   "Norgesgade 7, 2. th, 2300 København S": {
     "address": "Norgesgade 7, 2. th, 2300 København S",
@@ -249,11 +249,11 @@
   },
   "Lyongade 12, 3. th, 2300 København S": {
     "address": "Lyongade 12, 3. th, 2300 København S",
-    "status": "Reserveret"
+    "status": "Udlejet"
   },
   "Nørrebrogade 41, 3. th, 2200 København N": {
     "address": "Nørrebrogade 41, 3. th, 2200 København N",
-    "status": "Reserveret"
+    "status": "Udlejet"
   },
   "Kronprinsensgade 10, 3., 1114 København K": {
     "address": "Kronprinsensgade 10, 3., 1114 København K",
@@ -285,6 +285,10 @@
   },
   "Drogdensgade 4, 5., 2300 København S": {
     "address": "Drogdensgade 4, 5., 2300 København S",
+    "status": "Reserveret"
+  },
+  "Ved Klosteret 4, st. th, 2100 København Ø": {
+    "address": "Ved Klosteret 4, st. th, 2100 København Ø",
     "status": "Reserveret"
   }
 }
