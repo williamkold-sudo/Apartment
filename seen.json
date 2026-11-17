@@ -290,5 +290,17 @@
   "Ved Klosteret 4, st. th, 2100 København Ø": {
     "address": "Ved Klosteret 4, st. th, 2100 København Ø",
     "status": "Reserveret"
+  },
+  "Nørrebrogade 30, 2. th, 2200 København N": {
+    "address": "Nørrebrogade 30, 2. th, 2200 København N",
+    "status": "Reserveret"
+  },
+  "Valby Langgade 75, 3. th, 2500 Valby": {
+    "address": "Valby Langgade 75, 3. th, 2500 Valby",
+    "status": "Reserveret"
+  },
+  "Bredegrund 42, 2. tv, 2300 København S": {
+    "address": "Bredegrund 42, 2. tv, 2300 København S",
+    "status": "Reserveret"
   }
 }
