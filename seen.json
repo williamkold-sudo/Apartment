@@ -213,7 +213,7 @@
   },
   "Åboulevard 48, 1. th, 2200 København N": {
     "address": "Åboulevard 48, 1. th, 2200 København N",
-    "status": "Reserveret"
+    "status": "Udlejet"
   },
   "https://kereby.dk/bolig/norrebrogade-174-5-tv-2200-kobenhavn-n/": {
     "address": "Nørrebrogade 174, 5. tv, 2200 København N",
@@ -302,5 +302,9 @@
   "Bredegrund 42, 2. tv, 2300 København S": {
     "address": "Bredegrund 42, 2. tv, 2300 København S",
     "status": "Reserveret"
+  },
+  "https://kereby.dk/bolig/solvgade-14-3-th-1307-kobenhavn-k/": {
+    "address": "Sølvgade 14, 3. th, 1307 København K",
+    "status": "Ledig"
   }
 }
