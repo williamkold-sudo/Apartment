@@ -306,5 +306,9 @@
   "https://kereby.dk/bolig/solvgade-14-3-th-1307-kobenhavn-k/": {
     "address": "Sølvgade 14, 3. th, 1307 København K",
     "status": "Ledig"
+  },
+  "Heimdalsgade 10B, st., 2200 København N": {
+    "address": "Heimdalsgade 10B, st., 2200 København N",
+    "status": "Reserveret"
   }
 }
