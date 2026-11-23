@@ -277,7 +277,7 @@
   },
   "Nygårdsvej 16, 1. th, 2100 København Ø": {
     "address": "Nygårdsvej 16, 1. th, 2100 København Ø",
-    "status": "Reserveret"
+    "status": "Udlejet"
   },
   "Herluf Trolles Gade 3, 3. tv, 1052 København K": {
     "address": "Herluf Trolles Gade 3, 3. tv, 1052 København K",
@@ -289,7 +289,7 @@
   },
   "Ved Klosteret 4, st. th, 2100 København Ø": {
     "address": "Ved Klosteret 4, st. th, 2100 København Ø",
-    "status": "Reserveret"
+    "status": "Udlejet"
   },
   "Nørrebrogade 30, 2. th, 2200 København N": {
     "address": "Nørrebrogade 30, 2. th, 2200 København N",
@@ -309,6 +309,10 @@
   },
   "Heimdalsgade 10B, st., 2200 København N": {
     "address": "Heimdalsgade 10B, st., 2200 København N",
+    "status": "Reserveret"
+  },
+  "Nørrebrogade 174, 1. th, 2200 København N": {
+    "address": "Nørrebrogade 174, 1. th, 2200 København N",
     "status": "Reserveret"
   }
 }
