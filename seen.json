@@ -314,5 +314,13 @@
   "Nørrebrogade 174, 1. th, 2200 København N": {
     "address": "Nørrebrogade 174, 1. th, 2200 København N",
     "status": "Reserveret"
+  },
+  "Bredegrund 42, st. th, 2300 København S": {
+    "address": "Bredegrund 42, st. th, 2300 København S",
+    "status": "Reserveret"
+  },
+  "Sølvgade 14, 3. th, 1307 København K": {
+    "address": "Sølvgade 14, 3. th, 1307 København K",
+    "status": "Reserveret"
   }
 }
