@@ -293,15 +293,15 @@
   },
   "Nørrebrogade 30, 2. th, 2200 København N": {
     "address": "Nørrebrogade 30, 2. th, 2200 København N",
-    "status": "Reserveret"
+    "status": "Udlejet"
   },
   "Valby Langgade 75, 3. th, 2500 Valby": {
     "address": "Valby Langgade 75, 3. th, 2500 Valby",
-    "status": "Reserveret"
+    "status": "Udlejet"
   },
   "Bredegrund 42, 2. tv, 2300 København S": {
     "address": "Bredegrund 42, 2. tv, 2300 København S",
-    "status": "Reserveret"
+    "status": "Udlejet"
   },
   "https://kereby.dk/bolig/solvgade-14-3-th-1307-kobenhavn-k/": {
     "address": "Sølvgade 14, 3. th, 1307 København K",
@@ -321,6 +321,10 @@
   },
   "Sølvgade 14, 3. th, 1307 København K": {
     "address": "Sølvgade 14, 3. th, 1307 København K",
+    "status": "Reserveret"
+  },
+  "Nørrebrogade 28, 3., 2200 København N": {
+    "address": "Nørrebrogade 28, 3., 2200 København N",
     "status": "Reserveret"
   }
 }
